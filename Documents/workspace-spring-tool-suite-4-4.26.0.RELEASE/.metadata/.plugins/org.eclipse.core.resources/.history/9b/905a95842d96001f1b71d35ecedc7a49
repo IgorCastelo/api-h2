@@ -1,0 +1,10 @@
+package teste;
+
+public class programaTeste01 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
