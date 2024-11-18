@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("API Documentation")
+                        .title("API Documentation") 
                         .version("1.0")
                         .description("Documentação da API usando Swagger e Springdoc"));
     }
